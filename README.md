@@ -14,23 +14,23 @@ Features
 Why This Project?
 
 This repository is ideal for:
-	- Students or Developers: Looking to understand the practical aspects of C programming in a UNIX/Linux environment.
-	- Interview Preparation: Demonstrates proficiency in key system programming topics and showcases problem-solving skills.
-	- Expanding Knowledge: Explores the use of low-level system calls and advanced programming techniques.
+- Students or Developers: Looking to understand the practical aspects of C programming in a UNIX/Linux environment.
+- Interview Preparation: Demonstrates proficiency in key system programming topics and showcases problem-solving skills.
+- Expanding Knowledge: Explores the use of low-level system calls and advanced programming techniques.
 
 How to Use
 
 1.	Clone the repository:
 
-	git clone https://github.com/yourusername/Practical-C-Programming-Demos.git
-	cd Practical-C-Programming-Demos
+		git clone https://github.com/yourusername/Practical-C-Programming-Demos.git
+		cd Practical-C-Programming-Demos
 
 
 2.	Navigate to a specific module:
 
-	cd src/file_operations
-	make
-	./file_lseek
+		cd src/file_operations
+		make
+		./file_lseek
 
 
 3.	Explore other modules for additional functionalities and demonstrations.
