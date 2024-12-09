@@ -56,6 +56,6 @@ This repository is ideal for:
 - Explores low-level UNIX/Linux concepts that are critical for software development roles.
 - Showcases problem-solving skills through self-contained examples and well-documented code.
 
-Acknowledgements
+## Acknowledgements
 
 This project was developed as part of an advanced UNIX programming course and is intended for educational and demonstration purposes. It serves as a bridge between academic learning and real-world system programming challenges.
