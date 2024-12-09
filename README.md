@@ -4,33 +4,33 @@ This repository showcases a collection of C programming projects designed to exp
 
 Features
 
-	•	File Operations: Advanced usage of open, read, write, and lseek to manipulate files and demonstrate random access and efficient file handling techniques.
-	•	Process Management: Examples of creating and managing processes, including zombie processes, session leaders, and process group management.
-	•	Multithreading: Implementation of thread synchronization mechanisms using pthread and the development of a custom thread barrier.
-	•	Memory Mapping: File copying through memory-mapped I/O using mmap for efficient file operations.
-	•	UNIX Time Management: Using strftime for formatting system time in different time zones.
-	•	System Call Exploration: Hands-on demonstrations of system calls and their interaction with the operating system.
+	- File Operations: Advanced usage of open, read, write, and lseek to manipulate files and demonstrate random access and efficient file handling techniques.
+	- Process Management: Examples of creating and managing processes, including zombie processes, session leaders, and process group management.
+	- Multithreading: Implementation of thread synchronization mechanisms using pthread and the development of a custom thread barrier.
+	- Memory Mapping: File copying through memory-mapped I/O using mmap for efficient file operations.
+	- UNIX Time Management: Using strftime for formatting system time in different time zones.
+	- System Call Exploration: Hands-on demonstrations of system calls and their interaction with the operating system.
 
 Why This Project?
 
 This repository is ideal for:
-	•	Students or Developers: Looking to understand the practical aspects of C programming in a UNIX/Linux environment.
-	•	Interview Preparation: Demonstrates proficiency in key system programming topics and showcases problem-solving skills.
-	•	Expanding Knowledge: Explores the use of low-level system calls and advanced programming techniques.
+	- Students or Developers: Looking to understand the practical aspects of C programming in a UNIX/Linux environment.
+	- Interview Preparation: Demonstrates proficiency in key system programming topics and showcases problem-solving skills.
+	- Expanding Knowledge: Explores the use of low-level system calls and advanced programming techniques.
 
 How to Use
 
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/Practical-C-Programming-Demos.git
-cd Practical-C-Programming-Demos
+	git clone https://github.com/yourusername/Practical-C-Programming-Demos.git
+	cd Practical-C-Programming-Demos
 
 
 	2.	Navigate to a specific module:
 
-cd src/file_operations
-make
-./file_lseek
+	cd src/file_operations
+	make
+	./file_lseek
 
 
 	3.	Explore other modules for additional functionalities and demonstrations.
