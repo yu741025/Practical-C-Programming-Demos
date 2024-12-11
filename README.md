@@ -6,8 +6,7 @@ This repository contains a collection of lightweight system-level utilities deve
 
 - **File Operations**:
   - `file_lseek`: Demonstrates file manipulation using `lseek`, `read`, and `write`.
-  - `copy_file`: A lightweight and efficient file copying utility.
-
+  - `copy_file`: Replicates a source file’s content and permissions to a target file, creating the target if it doesn’t exist.
 - **Process Management**:
   - `zombie_checker`: Identifies zombie processes and validates process states.
   - `session_creator`: Creates new sessions and demonstrates process group management.
