@@ -5,7 +5,7 @@ This repository contains a collection of lightweight system-level utilities deve
 ## Features
 
 - **File Operations**:
-  - `lseek_tool`: Demonstrates file manipulation using `lseek`, `read`, and `write`.
+  - `file_lseek`: Demonstrates file manipulation using `lseek`, `read`, and `write`.
   - `file_copy`: A lightweight and efficient file copying utility.
 
 - **Process Management**:
