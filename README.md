@@ -33,5 +33,5 @@ Each utility is self-contained and can be executed independently. To build and r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Practical-System-Utilities.git
-   cd Practical-System-Utilities
+   git clone https://github.com/yu741025/Practical-C-Programming-Demos.git
+   cd Practical-C-Programming-Demos
