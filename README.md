@@ -20,8 +20,8 @@ This repository contains a collection of lightweight system-level utilities deve
 - **Time Management**:
   - `formatted_time`: Formats system time and supports timezone adjustments.
 
-- **Validation Tools**:
-  - `pointer_checker`: Explores pointer safety and memory lifecycle in C.
+- **Safety and Pointer**:
+  - `pointer_validation`: Explores pointer safety and memory lifecycle in C.
 
 - **Daemon Utilities**:
   - `daemon_login`: A utility to test daemon behavior and login sessions.
