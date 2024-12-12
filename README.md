@@ -18,7 +18,7 @@ This repository contains a collection of lightweight system-level utilities deve
   - `mmap_file_copy`: A high-performance file copying tool using memory-mapped I/O.
 
 - **Time Management**:
-  - `time_formatter`: Formats system time and supports timezone adjustments.
+  - `formatted_time`: Formats system time and supports timezone adjustments.
 
 - **Validation Tools**:
   - `pointer_checker`: Explores pointer safety and memory lifecycle in C.
