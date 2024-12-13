@@ -8,7 +8,7 @@ This repository contains a collection of lightweight system-level utilities deve
   - `file_lseek`: Demonstrates file manipulation using `lseek`, `read`, and `write`.
   - `copy_file`: Replicates a source file’s content and permissions to a target file, creating the target if it doesn’t exist.
 - **Process Management**:
-  - `zombie_checker`: Identifies zombie processes and validates process states.
+  - `zombie_process`: Create a zombie process by forking a child process, allowing the parent to observe the child’s status before cleaning it up.
   - `session_creator`: Creates new sessions and demonstrates process group management.
 
 - **Multithreading**:
