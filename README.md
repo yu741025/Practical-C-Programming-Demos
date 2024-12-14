@@ -11,7 +11,7 @@ This repository contains a collection of lightweight system-level utilities deve
   - `zombie_process`: Create a zombie process by forking a child process, allowing the parent to observe the child’s status before cleaning it up.
   - `session_creator`: Creates new sessions and demonstrates process group management.
 
-- **Multithreading**:
+- **Threading**:
   - `thread_barrier`: Implements a synchronization barrier for threads using `pthread`.
 
 - **Memory Mapping**:
