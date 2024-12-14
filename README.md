@@ -9,7 +9,7 @@ This repository contains a collection of lightweight system-level utilities deve
   - `copy_file`: Replicates a source file’s content and permissions to a target file, creating the target if it doesn’t exist.
 - **Process Management**:
   - `zombie_process`: Create a zombie process by forking a child process, allowing the parent to observe the child’s status before cleaning it up.
-  - `session_creator`: Creates new sessions and demonstrates process group management.
+  - `session_leader`: Creates new sessions and demonstrates process group management.
 
 - **Threading**:
   - `thread_barrier`: Implements a synchronization barrier for threads using `pthread`.
